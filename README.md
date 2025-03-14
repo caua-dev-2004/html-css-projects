@@ -18,7 +18,5 @@ O projeto é um site que contém informações sobre linguagens de programação
 
 ## Como Executar
 
-1. **Clone o repositório** para sua máquina local:
+**Clone o repositório** para sua máquina local:
 
-   ```bash
-   git clone https://github.com/seu-usuario/projeto-final.git
